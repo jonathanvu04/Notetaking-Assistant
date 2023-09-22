@@ -1,5 +1,5 @@
 # Notetaking-Assistant
-LA Hacks 
+LA Hacks 2023 Project
 
 This is our LAHacks 2023 submission created by Anish Goel, Jonathan Vu, Christina Pham, and Sophia Liang.
 
